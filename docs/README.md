@@ -17,4 +17,4 @@ Before release, teams verify acceptance criteria, CI and security checks, releas
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
 
-These documents are living, versioned project-management knowledge. Update them through the repository's [process-document contribution workflow](../../issues/new?template=add-update-content-to-process-docs.yml).
+These documents are living, versioned project-management knowledge. Update them through the repository's [process-document contribution workflow](https://github.com/girdhars/skills-scale-institutional-knowledge-using-copilot-spaces/issues/new?template=add-update-content-to-process-docs.yml).
